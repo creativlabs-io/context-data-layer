@@ -44,7 +44,7 @@ Seven decisions that define the system, each with what was rejected and what the
 
 ## 6. Honest numbers or no numbers
 
-**Decision:** Observed values enter only from real measurement, through the gate, with the measurement period recorded. The first weekly row was four zeros and each zero was recorded as its own observed fact, not explained away by a shared story. Manufactured staleness and demonstration theater are banned outright; a refusal is only ever shown if something is genuinely stale under the real policy.
+**Decision:** Observed values enter only from real measurement, through the gate, with the measurement period recorded. Manufactured staleness and demonstration theater are banned outright; a refusal is only ever shown if something is genuinely stale under the real policy.
 
 **Rejected:** Fabricated starter values and manufactured demonstration staleness, both ruled out explicitly in review.
 
