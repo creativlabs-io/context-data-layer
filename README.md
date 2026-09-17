@@ -41,9 +41,6 @@ Built on my own company first, August 26 to September 14, 2026, on a $22/month s
 | Write-path boundaries (the gate) | 55-check battery, passed in full |
 | Seeded canonical truth | 47 records, each through the gate with a named approver |
 | Read surface (answers with receipts, refusals) | 18-check battery, passed on the first run |
-| First weekly numbers row | Four zeros, recorded honestly |
-
-That last line is deliberate. Approaches were zero because it was a build week. Replies, held calls, and proposals were also zero, as separate observed facts. The zeros are part of the proof: the layer records the operating state it is given rather than improving the story.
 
 ## The receipts
 
