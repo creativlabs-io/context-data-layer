@@ -12,7 +12,9 @@ Gate boundaries proven, 55 of 55. First run scored 53 of 55; both failures were 
 The four weekly metric definitions locked after review and encoded as canonical definitions, including what deliberately does not count: bookings are not held calls, informational material is not a proposal.
 
 ## 2026-09-14
-Read surface proven, 18 of 18: answers with receipts, class-specific staleness behavior, refusal on stale judgment, fail-closed handling of missing or malformed policy. During review, the promoting identity's raw read access was found to violate the intended boundary and was revoked, with the denial proven by test. Freshness policy went live through the gate. First real value row recorded: four zeros for the week ending September 11, each an observed fact. Scheduled brief installed. Construction closed.
+Read surface proven, 18 of 18: answers with receipts, class-specific staleness behavior, refusal on stale judgment, fail-closed handling of missing or malformed policy. During review, the promoting identity's raw read access was found to violate the intended boundary and was revoked, with the denial proven by test. Freshness policy went live through the gate. Scheduled brief installed. Construction closed.
 
 ## 2026-09-15
 Security claims audited read-only against the live machine; public statements narrowed to exactly what the audit proved, with open items named as open. Public documentation pack drafted and taken through a separate adversarial review pass; among the catches, a fictional sample table had labeled an evidence row with a freshness state, which the real read contract would never produce. Even invented examples must obey the contract. Fixed before publication.
+
+First post-construction definition added: `queue adds`. Review caught two faults before execution: the definition targeted the wrong scope, and its confidence would have defaulted to unverified. The original check only proved the write completed. The script and verification were corrected, then rerun clean. No incorrect record entered canonical truth.
