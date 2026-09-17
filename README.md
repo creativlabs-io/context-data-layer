@@ -34,7 +34,7 @@ Five laws hold it together:
 
 ## Proof: mine runs
 
-Built on my own company first, August 26 to September 14, 2026.
+Designed and tested through 2026. Built into code and onto a server I own, August 26 to September 14, 2026.
 
 | What | Proof |
 |---|---|
