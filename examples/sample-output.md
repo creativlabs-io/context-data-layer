@@ -41,7 +41,7 @@ policy      | freshness thresholds live for all record classes
 attention   | 1 record refusing: discount approval rule (unsigned 243 days)
 pending     | 0 proposals waiting at the gate
 evidence    | 12 documents live, newest ingested 2026-09-02
-numbers     | week ending 2026-09-11: outreach 6, replies 2, calls held 1, proposals 1
+numbers     | week ending 2026-06-19: outreach 6, replies 2, calls held 1, proposals 1
 ```
 
 The brief makes drift visible without waiting for someone to remember to look.
