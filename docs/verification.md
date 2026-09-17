@@ -1,6 +1,6 @@
 # Verification: what the numbers mean
 
-The README claims 55, 47, 18, and a row of four zeros. This page turns those from assertions into receipts: what each battery tested, when it ran, and what stays private.
+The README claims 55, 47, and 18. This page turns those from assertions into receipts: what each battery tested, when it ran, and what stays private.
 
 Method, common to all of it: every battery is a scripted run against the live system, not a mock. Implementation drafts and adversarial review were kept separate; every execution artifact went through a separate written review pass, over multiple rounds, before it was run. Each battery carries a safety strategy fitted to what it tests: boundary tests used isolated verification records with cleanup that is itself proven complete, hostile-state read tests ran inside rolled-back transactions, and seed promotion was atomic, rolling back every promotion if even one failed. The standing laws: no fabricated business data, ever; test-only state never survives a run; no manufactured staleness for demonstration purposes, ever.
 
@@ -34,10 +34,6 @@ The initial truth went in through the same gate as everything after it, no bulk-
 - Refusal fires on stale judgment-class records: proven with a positive control first, then denial cases, against the real database.
 - Fail-closed behavior: a missing freshness policy, a malformed one, a non-numeric threshold, an absurdly oversized threshold, a null date, and a future date all produce a refusal state rather than an exception or a guess. All hostile-state tests ran rolled back.
 - Credential separation: the promoting identity lost its raw read access when review found the original grant violated the intended boundary. The battery proves the denial both ways: gate identity cannot read, reading identity cannot promote.
-
-## First value row: September 14, 2026, for the week ending September 11
-
-Four weekly metrics, all zero, recorded as four separate observed facts through the same proposal-and-promotion path as everything else, with a scoped proof of 4 live values, 4 confirmed proposals, 4 commits. The zeros are part of the proof: the layer records the operating state it is given rather than improving the story.
 
 ## Infrastructure claims: audited September 15, 2026
 
